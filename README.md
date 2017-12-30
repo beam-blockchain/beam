@@ -1,2 +1,4 @@
-# beam
-Beam Cryptocurrency
+
+# BEAM
+Beam Blockchain Cryptocurrency
+
